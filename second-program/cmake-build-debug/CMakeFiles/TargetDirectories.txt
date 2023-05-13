@@ -1,0 +1,3 @@
+C:/Users/ErangaGayashanBISTEC/workspaces/c-tutorials/second-program/cmake-build-debug/CMakeFiles/second_program.dir
+C:/Users/ErangaGayashanBISTEC/workspaces/c-tutorials/second-program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ErangaGayashanBISTEC/workspaces/c-tutorials/second-program/cmake-build-debug/CMakeFiles/rebuild_cache.dir
